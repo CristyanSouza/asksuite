@@ -1,3 +1,3 @@
 # Test Dev Asksuite
 
-Hi, thanks for the opportunity. I would really like to be part of the team.
+Teste feito para um processo seletivo, enviando uma requisição do tipo POST à uma API de Hoteis e retornando os hoteis disponíveis entre às datas dos paramêtros enviados.
